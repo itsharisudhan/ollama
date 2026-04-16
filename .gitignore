@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+faiss_index/
+src/data/colleges.db
+src/data/institutions.json
+src/data/states/
+data_raw_colleges.json
+*.egg-info/
+dist/
+build/
+.venv/
